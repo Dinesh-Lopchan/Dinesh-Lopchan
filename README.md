@@ -2,8 +2,8 @@
 
 ## About Me
 - Computer Science Graduate from the University of West London. </br>
-- Passionate about software development, machine learning, and web technologies. </br>
-- Strong foundation in Python, Java, and software development. </br>
+- Passionate about QA, software development, and web technologies. </br>
+- Strong Python, Java, quality assurance, and software development foundation. </br>
 - Experience working with Agile methodologies and Scrum practices. </br>
 - Enthusiastic about open-source contributions and collaborative development. </br>
 
