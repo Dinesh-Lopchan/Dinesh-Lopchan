@@ -1,4 +1,4 @@
-# Hi, I'm Dinesh 
+# Hi, I'm Dinesh Tamang
 
 ## About Me
 - Computer Science Graduate from the University of West London. </br>
